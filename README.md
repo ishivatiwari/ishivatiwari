@@ -38,18 +38,6 @@ Mission:
   Building AI solutions for social impact 🌏
 ```
 
----
-
-# 🏆 Achievements
-
-🎖️ Supercharged Ambassador @HCLTech
-
-🇮🇳 India AI Impact Summit 2026
-
-🚀 Multiple Hackathons with Google for Developers & Hack2Skills
-
----
-
 # ☁️ Certifications
 
 ✔ Microsoft Certified: Azure AI Fundamentals
