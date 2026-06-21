@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Shiva Tiwari
 
-### ☁️ Cloud Engineer | 🤖 AI Engineer @ HCLTech
+### 🤖 AI Engineer @ HCLTech | ☁️ Cloud Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%40+HCLTech;Cloud+Engineer;Generative+AI+Enthusiast;Multi-Agent+Systems+Builder;Google+Cloud+%7C+Azure+%7C+Python;Building+AI+for+Social+Impact+🚀" />
 
@@ -15,25 +15,26 @@
 ## 🚀 About Me
 
 ```yaml
-name: Shiva Tiwari
-role: Cloud Engineer
-company: HCLTech
+Name: Shiva Tiwari
+Role: AI Engineer
+Organization: HCLTech
 
-interests:
-  - Generative AI
+Interests:
   - Agentic AI
+  - Generative AI
   - Multi-Agent Systems
+  - Prompt Engineering
   - Cloud Engineering
   - Full Stack Development
 
-currently_learning:
+Currently_Learning:
   - Google ADK
   - LangGraph
   - RAG Systems
   - Vertex AI
   - MCP Architecture
 
-mission:
+Mission:
   Building AI solutions for social impact 🌏
 ```
 
@@ -41,13 +42,7 @@ mission:
 
 # 🏆 Achievements
 
-🥈 Silver Club Recognition - HCLTech
-
-🏅 Certificate of Appreciation - HCLTech
-
-🎖️ Supercharged Ambassador
-
-🌎 Google DevFest 2025
+🎖️ Supercharged Ambassador @HCLTech
 
 🇮🇳 India AI Impact Summit 2026
 
@@ -57,25 +52,18 @@ mission:
 
 # ☁️ Certifications
 
-### Microsoft
-
-✔ Azure AI Engineer Associate (AI-102)
-
-### Google Cloud
-
+✔ Microsoft Certified: Azure AI Fundamentals
+✔ Microsoft Certified: Azure Fundamentals
+✔ Microsoft Certified: Azure Administrator Associate
+✔ Microsoft Certified: Azure AI Engineer Associate
 ✔ Generative AI Labs
-
 ✔ Vertex AI Labs
-
 ✔ LangChain + Gemini Labs
-
 ✔ Google Gen AI Academy APAC
 
-### Programming
+### Programming Language
 
-✔ 100 Days of Python Bootcamp
-
----
+✔ Python 
 
 # 🛠 Tech Stack
 
@@ -130,8 +118,7 @@ mission:
 | 🛡 SafeSphere         | Crowd Intelligence Platform     |
 | 🐝 Swarma             | AI Crowd Management System      |
 | 🗳 Chunaav AI         | Election Guidance Assistant     |
-| 💯 100 Days of Python | Python Learning Journey         |
-
+        |
 ---
 
 # 📈 GitHub Stats
