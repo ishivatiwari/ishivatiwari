@@ -65,7 +65,7 @@ Mission:
 ### Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=gcp,azure,docker"/>
+<img src="https://skillicons.dev/icons?i=gcp,azure,aws,docker"/>
 </p>
 
 ### Frameworks
@@ -127,16 +127,6 @@ Mission:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ishivatiwari&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
 # 📊 Activity Graph
 
 <p align="center">
@@ -161,15 +151,13 @@ Mission:
 # 🤝 Connect with Me
 
 <p align="center">
-
-<a href="www.linkedin.com/in/ishivatiwari">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/ishivatiwari">
+  <img src="https://img.shields.io/badge/LinkedIn-Shiva%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ishivatiwari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-ishivatiwari-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
