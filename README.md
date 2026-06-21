@@ -1,129 +1,139 @@
-# 👋 Hi, I'm Ishiva Tiwari
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer and AI enthusiast building intelligent systems that solve real-world problems. I focus on creating **multiagent AI systems**, **automation solutions**, and **full-stack applications**. My journey involves continuous learning and turning ideas into impactful projects.
-
-- 🤖 Currently exploring **AI agents** and **multiagent systems**
-- 💻 Full-stack development with **Python**, **TypeScript**, and modern frameworks
-- 🌱 Learning advanced Python, web development, and AI/ML technologies
-- 🎯 Building projects that make a difference in sustainability and social impact
-- 💬 Always open to collaboration and interesting discussions
-
----
-
-## 🛠️ Tech Stack
+# <div align="center">👋 Hi, I'm Shiva Tiwari</div>
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### ☁️ Cloud Engineer | 🤖 AI Engineer @ HCLTech | 🚀 Building Intelligent Systems
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Cloud+Engineer+%7C+AI+Engineer+@+HCLTech;Google+Cloud+%7C+Azure+%7C+Generative+AI;Agentic+AI+%7C+Multi-Agent+Systems;Building+AI+for+Social+Impact;Always+Learning+🚀" />
 
-### AI & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://komarev.com/ghpvc/?username=ishivatiwari&style=for-the-badge&color=00D9FF"/>
+<img src="https://img.shields.io/github/followers/ishivatiwari?style=for-the-badge&color=00D9FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/ishivatiwari?style=for-the-badge&color=00D9FF&labelColor=0D1117"/>
+</p>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" width="30"/> About Me
+
+```yaml
+name: Shiva Tiwari
+role: Cloud Engineer
+company: HCLTech
+specialization:
+  - Generative AI
+  - Multi-Agent Systems
+  - Google Cloud
+  - Azure AI
+  - Automation
+
+currently_building:
+  - EcoDNA 🌎
+  - Chronova AI 🤖
+  - Swarma 🐝
+  - SafeSphere 🛡️
+
+life_philosophy:
+  "Building AI for Social Impact"
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+### 🤖 AI & GenAI
+
+![Gemini](https://img.shields.io/badge/Gemini-00D9FF?style=for-the-badge)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-00D9FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge)
+![ADK](https://img.shields.io/badge/Google_ADK-00D9FF?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00D9FF?style=for-the-badge)
+
+### ☁️ Cloud
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-00D9FF?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-00D9FF?style=for-the-badge)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-00D9FF?style=for-the-badge)
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-00D9FF?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-00D9FF?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-00D9FF?style=for-the-badge)
+
+---
+
+# 🚀 Featured Projects
+
+| Project        | Description                        |
+| -------------- | ---------------------------------- |
+| 🌎 EcoDNA      | AI Sustainability Assistant        |
+| 🤖 Chronova AI | Multi-Agent Productivity System    |
+| 🛡️ SafeSphere | Crowd Safety Intelligence Platform |
+| 🐝 Swarma      | AI Crowd Management System         |
+| 🗳️ Chunaav AI | Election Guidance Assistant        |
+
+---
+
+# 🏆 Certifications
+
+🏅 Microsoft Certified: Azure AI Engineer Associate
+
+☁️ Google Cloud Generative AI Labs
+
+🚀 Google Gen AI Academy APAC
+
+🐍 100 Days of Python Bootcamp
+
+---
+
+# 📈 GitHub Matrix
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| **EcoDNA** | Intelligent sustainability assistant analyzing lifestyle habits and carbon footprint | Python | 🚀 Active |
-| **Chronova AI** | Multiagent AI system for intelligent time management and automation | Python | ✨ In Progress |
-| **Chunaav-AI** | Interactive AI assistant simplifying Indian election process with personalized guidance | TypeScript | ✨ In Progress |
-| **SafeSphere** | Predictive crowd intelligence system preventing stampedes at large events | Python | 📊 Deployed |
-| **100 Days of Python** | Comprehensive Python learning journey with practical code examples | Python | 📚 Active |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishivatiwari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivatiwari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 🐍 Contribution Snake
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishivatiwari&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=8b949e&icon_color=00d9ff&border_color=30363d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishivatiwari&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=8b949e&border_color=30363d)
+![snake gif](https://github.com/ishivatiwari/ishivatiwari/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 💡 What I'm Working On
-
-- 🔬 **Advanced AI & Machine Learning** - Exploring LLMs, prompt engineering, and multiagent architectures
-- 🌍 **Sustainability Tech** - Building solutions that help reduce environmental impact
-- 🏛️ **Social Impact Projects** - Creating AI tools for civic engagement and public welfare
-- 📖 **Continuous Learning** - Deep diving into Python, data structures, and system design
-
----
-
-## 🎯 Goals & Vision
-
-- Build AI systems that solve real-world problems
-- Contribute to open-source projects with meaningful impact
-- Master full-stack development and AI integration
-- Share knowledge and mentor aspiring developers
-- Create technology that makes a positive difference in society
-
----
-
-## 📫 Let's Connect
+# 🌐 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishivatiwari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishiva-tiwari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://linkedin.com/in/ishiva-tiwari)
+
+[![GitHub](https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/ishivatiwari)
 
 </div>
 
 ---
 
-## 💬 Fun Facts
-
-- 🎮 When not coding, I'm exploring AI applications and brainstorming new project ideas
-- 🌱 Passionate about creating technology for social good and sustainability
-- 📚 Believe in the power of documentation and sharing knowledge
-- ⚡ Love the intersection of creativity and technology
-
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00D9FF&center=true&width=500&lines=Thanks+for+visiting!+Star+my+repos+if+you+find+them+useful+%E2%9C%A8;Let's+build+amazing+things+together!+🚀" alt="Thanks" />
-</div>
 
----
+```text
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗
+██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝
+██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
 
-<div align="center">
-  
-  ⭐️ If you like my projects, consider giving them a star! ⭐️
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ishivatiwari&color=00d9ff&style=flat-square)
-  
+      BUILDING AI FOR SOCIAL IMPACT 🌎
+```
+
 </div>
