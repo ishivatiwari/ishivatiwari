@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Shiva Tiwari
 
-### 🤖 AI Engineer @ HCLTech | ☁️ Cloud Engineer
+### 🤖 AI Engineer @ HCLTech | ☁️ Cloud Engineer | Prompt Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%40+HCLTech;Cloud+Engineer;Generative+AI+Enthusiast;Multi-Agent+Systems+Builder;Google+Cloud+%7C+Azure+%7C+Python;Building+AI+for+Social+Impact+🚀" />
 
@@ -56,14 +56,15 @@ Mission:
 ✔ Microsoft Certified: Azure Fundamentals
 ✔ Microsoft Certified: Azure Administrator Associate
 ✔ Microsoft Certified: Azure AI Engineer Associate
+✔ Google AI Professional
+✔ AWS Cloud Practitioner Essentials
+✔ AWS Agentic AI Essentials
+✔ L3_Dev_Prompt_Engineer
 ✔ Generative AI Labs
 ✔ Vertex AI Labs
 ✔ LangChain + Gemini Labs
 ✔ Google Gen AI Academy APAC
 
-### Programming Language
-
-✔ Python 
 
 # 🛠 Tech Stack
 
@@ -116,9 +117,8 @@ Mission:
 | 🌍 EcoDNA             | AI Sustainability Assistant     |
 | 🤖 Chronova AI        | Multi-Agent Productivity System |
 | 🛡 SafeSphere         | Crowd Intelligence Platform     |
-| 🐝 Swarma             | AI Crowd Management System      |
 | 🗳 Chunaav AI         | Election Guidance Assistant     |
-        |
+      
 ---
 
 # 📈 GitHub Stats
@@ -159,17 +159,6 @@ Mission:
 
 ---
 
-# 🌱 Currently Building
-
-🚀 EcoDNA
-
-🤖 Chronova AI
-
-🐝 Swarma
-
-🛡 SafeSphere
-
----
 
 # 🎯 Goals
 
@@ -185,7 +174,7 @@ Mission:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/ishiva-tiwari">
+<a href="www.linkedin.com/in/ishivatiwari">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
