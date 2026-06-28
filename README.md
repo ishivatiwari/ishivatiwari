@@ -77,7 +77,7 @@ Mission:
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jira"/>
 </p>
 
 ---
